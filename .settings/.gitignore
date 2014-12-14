@@ -3,3 +3,5 @@
 .project/
 /2014FirstLesson/nbproject/private/
 /2014FirstLesson/build/
+.classpath
+.settings/org.eclipse.jdt.core.prefs
