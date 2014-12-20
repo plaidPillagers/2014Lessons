@@ -75,8 +75,8 @@ public class Master {
         System.out.println("*** EXAMPLE 2 *** (You can pretty much write anything you want in forloops!)");
         for(int i = 0; i < 10; i++){
             int addTo = i + 1;
-            if(i * 2 == 20) {
-                System.out.println(i + " * 2 is equal to 20");
+            if(i * 2 == 18) {
+                System.out.println(i + " * 2 is equal to 18");
             }
             else {
                 System.out.println(addTo + giveMeANumber(i));
